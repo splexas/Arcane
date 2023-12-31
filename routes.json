@@ -1,0 +1,16 @@
+{
+    "routes": [
+        {
+            "path": "/",
+            "render_point": "webpages/index.html"
+        },
+        {
+            "path": "/signin", 
+            "render_point": "webpages/signin.html"
+        },
+        {
+            "path": "/signup", 
+            "render_point": "webpages/signup.html"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+project/
+.vscode/
+debug.log
+test.c
+test.db
+test.exe
+webpages/
